@@ -1,4 +1,9 @@
-### Buenas 👋
+# ¡Hola, soy Carmona!
+
+![Imagen de Rodrigo Carmona](https://github.com/Kamikazejar/Kamikazejar/blob/main/Rodrigo%20carmona.png?raw=true)
+
+## Acerca de mí
+Empecé en este maravilloso mundo del código cuando tenia 16, con tutoriales de YT aprendí lo básico de C#. Soy una persona de analizar, perseverante y lógica por lo que me adapte bien a la ciencia de codificar. Decidí formarme profesionalmente, para así crecer en el mundo TI.
 
 <!--
 **Kamikazejar/Kamikazejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
